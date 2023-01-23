@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Jha=================================================================================================================================Web Developer-------------I am a final-year undergrad from IIT Jodhpur. I'm a Front-end and Back-end developer with experience in building responsive web applications using the latest technologies like React, MongoDB, ExpressJS, and Node.js. I have hands-on experience developing web applications from scratch and making improvements to existing ones.* 🌍  I'm based in Kolkata, West Bengal* ✉️  You can contact me at [jha.4@iitj.ac.in](mailto:jha.4@iitj.ac.in)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayush Jha
+=================================================================================================================================
+Web Developer
+-------------
+I am a final-year undergrad from IIT Jodhpur. I'm a Front-end and Back-end developer with experience in building responsive web applications using the latest technologies like React, MongoDB, ExpressJS, and Node.js. I have hands-on experience developing web applications from scratch and making improvements to existing ones.* 🌍  I'm based in Kolkata, West Bengal* ✉️  You can contact me at [jha.4@iitj.ac.in](mailto:jha.4@iitj.ac.in)
 
 ### Skills
 
