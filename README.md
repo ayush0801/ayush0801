@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 Web Developer
 -------------
-I am a B.Tech graduate from IIT Jodhpur. I'm a Front-end and Back-end developer with experience in building responsive web applications using the latest technologies like React, MongoDB, ExpressJS, and Node.js. I have hands-on experience developing web applications from scratch and making improvements to existing ones. *🌍  I'm based in Kolkata, West Bengal* ✉️  You can contact me at [jha.4@iitj.ac.in](mailto:jha.4@iitj.ac.in)
+I am a B.Tech graduate from IIT Jodhpur. I'm a Front-end and Back-end developer with experience in building responsive web applications using the latest technologies like React, MongoDB, ExpressJS, and Node.js. I have hands-on experience developing web applications from scratch and making improvements to existing ones. *🌍  I'm based in Kolkata, West Bengal* ✉️  You can contact me at [ayush.jha.0801@gmail.com](mailto:ayush.jha.0801@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0801&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0801" /> </p>
 
