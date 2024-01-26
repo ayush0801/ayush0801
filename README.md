@@ -132,8 +132,8 @@ I am a B.Tech graduate from IIT Jodhpur. I'm a Front-end and Back-end developer 
     <td width="50%" valign="top">
       <h6>🏆 My GitHub Stats</h6>
       <p align="center">
-        <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0801&theme=dark&hide_border=false" alt="ayush0801" /></p>
-      <p align="center" width="50%" href="http://www.github.com/ayush0801"><img src="https://github-readme-stats.vercel.app/api?username=ayush0801&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="ayush0801's GitHub stats" /></p>
+        <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0801&theme=vue-dark&hide_border=true" alt="ayush0801" /></p>
+      <p align="center" width="50%" href="http://www.github.com/ayush0801"><img src="https://github-readme-stats.vercel.app/api?username=ayush0801&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="ayush0801's GitHub stats" /></p>
 <!--       <p align="center" width="50%" href="http://www.github.com/ayush0801"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0801&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="ayush0801's GitHub stats" /></p> -->
       </p> 
     </td>
@@ -144,14 +144,14 @@ I am a B.Tech graduate from IIT Jodhpur. I'm a Front-end and Back-end developer 
           <img
             title="LeetCode Stats Card"
             alt="Ayush's LeetCode Stats Card"
-            src="https://leetcard.jacoblin.cool/ctrlshiftesc?theme=dark&font=Mulish&ext=contest"
+            src="https://leetcard.jacoblin.cool/ctrlshiftesc?theme=nord&font=Andika&ext=contest"
           />
         </a>
       </p>
     </td>
   </tr>
 </table>
-<p align="left" width="50%" href="http://www.github.com/ayush0801"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0801&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="ayush0801's GitHub stats" /></p>
+<p align="left" width="50%" href="http://www.github.com/ayush0801"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0801&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="ayush0801's GitHub stats" /></p>
 
 ### Socials
 <p align="left">
